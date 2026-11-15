@@ -2,6 +2,7 @@
 **Mars Alive**
 
 Challenge: Build a Junior Astronaut Mission Trainer.
+
 **ABOUT THE TEAM**
 45 grados is a team of six young women driven by curiosity, engineering, and a shared commitment to STEAM. Created to spark early interest in science and technology, the team works to educate children and youth through accessible and creative learning experiences. At the heart of 45 grados is a clear mission: to make space education welcoming and achievable for young minds everywhere. 
 
@@ -18,6 +19,7 @@ Play Online: [Add your itch.io link here]
 
 **PROJECT SUMMARY**
 Space education for children is often very limited due to being either too technical for them to understand or so simple that it overlooks core information. Our goal is to bridge the gap between accurate representations of astronauts' experiences and dynamic experiences children are willing to play. Children need this type of information to discover the potential of the STEAM field, in a way that’s realistic but still exciting. Our solution? Mars Alive, the 8-bit point-and-click survival game aimed for children aged 7 to 12 that aims to teach players about the necessary conditions and tasks needed to sustain life on Mars while utilizing data from actual instruments and curated databases (ISS Veg-04A y NASA RadLab). Built in Unity with AI-assisted coding workflows (Claude AI) and custom 8-bit art created in Pixel Studio.
+
 
 **PROJECT DETAILS**
 **Goal:** The objective of Mars Alive is for the player to look for clues that may prove past life existed on Mars. With each mission they accomplish, they receive a piece of a puzzle that takes them closer to their goal. 

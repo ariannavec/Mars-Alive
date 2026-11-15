@@ -21,6 +21,7 @@ Play Online: [Add your itch.io link here]
 
 ## Repository Content & Structure
 
+```text
 Mars-Alive/
 ├── AI Use/                    # Prompts, AI workflow logs, and disclosure documentation
 ├── Code/                      # C# scripts and Unity source logic (Sol cycle, resources, Greenhouse, RadLab)
@@ -29,6 +30,7 @@ Mars-Alive/
 ├── Images/                    # Custom 8-bit pixel art sprites, UI elements, and HUD assets (Pixel Studio)
 ├── Technical documentation/   # Scientific research, curated NASA RadLab dataset, and APA 7th references
 └── README.md                  # Main project overview, gameplay flow, and setup instructions
+```
 
 ### Folder Descriptions
 * **AI Use/:** Contains the tentative and refined prompts used with Claude AI and Unity's AI Assistant to generate base C# scripts, along with transparency notes.

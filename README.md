@@ -66,8 +66,28 @@ Our game is based on 5 main variables that dictate its flow: Sol (Martian days),
 
 *9 missions (discovery of life):* The nine missions in Mars Alive trace NASA's real scientific timeline of clues pointing toward ancient life on Mars. Players first uncover evidence of past liquid water through rounded conglomerate rocks from an ancient streambed discovered by Curiosity in Gale Crater (2012), freshwater clay drilled from the "John Klein" rock (2013), and subsurface water ice dug up near the Martian north pole by the Phoenix lander (2008). Next, they investigate Mars's ancient atmosphere and chemistry through trapped gases analyzed by Curiosity and MAVEN, baked Martian soil revealing the essential chemical building blocks of life—carbon, hydrogen, nitrogen, oxygen, phosphorus, and sulfur—and iron- and sulfur-rich minerals that sustain underground, non-photosynthetic microbes on Earth. The final clues bring players to Perseverance's 2024 discovery of "Cheyava Falls"—a rock marked with leopard-like spots associated on Earth with microbial energy extraction—alongside astrobiology research showing that hardy Earth microbes and lichens can survive harsh space radiation and Martian conditions, culminating in Mission 9: securing sealed Martian rock sample tubes for return to Earth so advanced laboratories can definitively confirm whether life once existed on the Red Planet.
 
-**Módulos en UNITY:**
+**Modules en UNITY:*
 
+- Lobby Screen: To start the game.
+
+- Tutorial: Where all features are described.
+
+- Map: Where all the rooms are shown.
+
+- Mission Control: Where decisions are taken.
+
+- Green House: Where crops are cultivated and harvested.
+
+- Lab: In progress
+
+- Dorms: In progress
+
+- Bunker: In progress
+
+- Hangar: In progress
+
+- Electric: In progress
+  
 **Game flow:** 
 *Mission Start:* The player starts at the Martian outpost with water, energy, and health at 100%, a clock that indicates whether it is time to sleep, and the objective to complete a puzzle of 9 scientific missions about past life on Mars. 
 

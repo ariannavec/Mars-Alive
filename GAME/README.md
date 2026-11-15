@@ -1,4 +1,5 @@
 How to Launch & Play
+
 1- Open the itch.io link above.
 
 2- Click "Run Game", wait for the Unity loader to finish, and click the full-screen icon in the bottom-right corner for the best 8-bit view.

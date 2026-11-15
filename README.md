@@ -46,7 +46,7 @@ Space education for children is often very limited due to being either too techn
 ## Visual Preview
 | Outpost & 8-Bit HUD | ISS Veg-04A Greenhouse | RadLab Radiation Monitor |
 | :---: | :---: | :---: |
-| ![Mission Control](Images/Mission_control.png) | ![Greenhouse](Images/Greenhouse.png) | ![Map](Images/Map.jpg) |
+| ![Mission Control](Images/Mission_control.png) | ![Greenhouse](Images/Greenhouse.png) | ![Map]([Images/Map.jpg](https://github.com/ariannavec/Mars-Alive/blob/main/Images/Map.jpeg)) |
 
 **PROJECT DETAILS**
 **Goal:** The objective of Mars Alive is for the player to look for clues that may prove past life existed on Mars. With each mission they accomplish, they receive a piece of a puzzle that takes them closer to their goal. 

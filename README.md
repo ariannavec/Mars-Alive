@@ -1,5 +1,5 @@
-# NasaSpaceApps
-**Build a Junior Astronaut Mission Trainer**
+# Nasa Space Apps: Build a Junior Astronaut Mission Trainer
+**Mars Alive**
 An interactive space mission trainer for children aged 7 to 12, created for the NASA International Space Apps Challenge. Over 30 Sols (Martian days), players manage a Mars Base using real NASA science to survive dust storms, radiation alerts, and resource scarcity.
 
 *Core Resources*

@@ -1,5 +1,6 @@
 # Nasa Space Apps: Build a Junior Astronaut Mission Trainer
 **Mars Alive**
+
 ![Mars Alive Title Screen](Images/Title_screen.png)
 
 **ABOUT THE TEAM**

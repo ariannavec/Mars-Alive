@@ -1,12 +1,14 @@
 # Nasa Space Apps: Build a Junior Astronaut Mission Trainer
 **Mars Alive**
-
-Challenge: Build a Junior Astronaut Mission Trainer.
+![Mars Alive Title Screen](Images/Title_screen.png)
 
 **ABOUT THE TEAM**
 45 grados is a team of six young women driven by curiosity, engineering, and a shared commitment to STEAM. Created to spark early interest in science and technology, the team works to educate children and youth through accessible and creative learning experiences. At the heart of 45 grados is a clear mission: to make space education welcoming and achievable for young minds everywhere. 
 
-**Play the Game (itch.io)**
+**GAME DEMO**
+Click here to watch the game demo video: 
+
+**Play the Game Demo (itch.io)**
 You can play Mars Alive directly without installing Unity via itch.io page:
 Play Online: [Add your itch.io link here]
 
@@ -17,9 +19,34 @@ Play Online: [Add your itch.io link here]
 
 3- Controls: Use Left-Click (Point-and-Click) to navigate outpost rooms, interact with Greenhouse crops and check the RadLab radiation monitor.
 
+## Repository Content & Structure
+
+Mars-Alive/
+├── AI Use/                    # Prompts, AI workflow logs, and disclosure documentation
+├── Code/                      # C# scripts and Unity source logic (Sol cycle, resources, Greenhouse, RadLab)
+├── DEMO/                      # Pitch presentation slides and demo materials
+├── GAME/                      # Playable game files / build resources (also hosted on itch.io)
+├── Images/                    # Custom 8-bit pixel art sprites, UI elements, and HUD assets (Pixel Studio)
+├── Technical documentation/   # Scientific research, curated NASA RadLab dataset, and APA 7th references
+└── README.md                  # Main project overview, gameplay flow, and setup instructions
+
+### Folder Descriptions
+* **AI Use/:** Contains the tentative and refined prompts used with Claude AI and Unity's AI Assistant to generate base C# scripts, along with transparency notes.
+* **Code/:** Stores the C# scripts governing the 30-Sol survival loop, Energy/Water/Health variables, mandatory sleep mechanics, and the RadLab data reader.
+* **DEMO/:** Includes the official hackathon presentation slides and showcase assets.
+* **GAME/:** Contains the playable build files and executable/WebGL package for running *Mars Alive*.
+* **Images/:** Houses all original 8-bit pixel art created in Pixel Studio, including outpost rooms, greenhouse crop growth stages, radiation alerts, and the 9-piece puzzle.
+* **Technical documentation/:** Holds the scientific background for the 9 discovery missions, the curated May 1–30, 2023 NASA RadLab dataset, ISS Veg-04A notes, and full APA 7th edition references.
+* **README.md:** Main documentation hub with gameplay instructions, itch.io launch steps, and project details.
+
 **PROJECT SUMMARY**
 Space education for children is often very limited due to being either too technical for them to understand or so simple that it overlooks core information. Our goal is to bridge the gap between accurate representations of astronauts' experiences and dynamic experiences children are willing to play. Children need this type of information to discover the potential of the STEAM field, in a way that’s realistic but still exciting. Our solution? Mars Alive, the 8-bit point-and-click survival game aimed for children aged 7 to 12 that aims to teach players about the necessary conditions and tasks needed to sustain life on Mars while utilizing data from actual instruments and curated databases (ISS Veg-04A y NASA RadLab). Built in Unity with AI-assisted coding workflows (Claude AI) and custom 8-bit art created in Pixel Studio.
 
+
+## Visual Preview
+| Outpost & 8-Bit HUD | ISS Veg-04A Greenhouse | RadLab Radiation Monitor |
+| :---: | :---: | :---: |
+| ![Mission Control](Images/Mission_control.png) | ![Greenhouse](Images/Greenhouse.png) | ![Map](Images/Map.jpg) |
 
 **PROJECT DETAILS**
 **Goal:** The objective of Mars Alive is for the player to look for clues that may prove past life existed on Mars. With each mission they accomplish, they receive a piece of a puzzle that takes them closer to their goal. 
@@ -78,6 +105,9 @@ In future iterations, we plan to implement additional outpost rooms integrating 
 To enrich our educational design with insights from international space agency partners, we incorporated resources from the Canadian Space Agency (CSA):
 *Canadian Space Agency (CSA):* We used their Educators and Youth Toolkit on Food Production on the Moon and Remote Areas to inform the educational mechanics and crop-management concepts behind our playable Greenhouse module.
 
+
+> *"With **Mars Alive**, we don't just teach children about space—we put them in command of real NASA science, proving that the next generation of explorers is ready to keep Mars alive."*  
+> — **Team 45 Grados**
 
 
 

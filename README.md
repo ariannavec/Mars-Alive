@@ -7,7 +7,12 @@
 45 grados is a team of six young women driven by curiosity, engineering, and a shared commitment to STEAM. Created to spark early interest in science and technology, the team works to educate children and youth through accessible and creative learning experiences. At the heart of 45 grados is a clear mission: to make space education welcoming and achievable for young minds everywhere. 
 
 **GAME DEMO**
-Click here to watch the game demo video: 
+Scan QR Code or click the link to watch the game demo video: 
+<img width="1024" height="1024" alt="QR Demo Mars Alive" src="https://github.com/user-attachments/assets/0d9a7f51-f624-4664-9927-a51dc129c787" />
+
+https://youtu.be/f-lrdZz6CXE
+
+
 
 **Play the Game Demo (itch.io)**
 You can play Mars Alive directly without installing Unity via itch.io page:
@@ -111,6 +116,8 @@ To enrich our educational design with insights from international space agency p
 
 > *"With **Mars Alive**, we don't just teach children about space—we put them in command of real NASA science, proving that the next generation of explorers is ready to keep Mars alive."*  
 > — **Team 45 Grados**
+
+
 
 
 

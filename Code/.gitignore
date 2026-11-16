@@ -1,0 +1,62 @@
+# ===== Unity: carpetas generadas (se regeneran solas) =====
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# ===== Builds =====
+/[Bb]uild/
+/[Bb]uilds/
+/[Bb]uild[Ss]/
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# ===== Grabaciones del demo (videos y capturas generadas) =====
+/Grabaciones/
+
+# ===== Archivos disparadores de los scripts de grabación/build =====
+/GrabarDemo.trigger
+/BuildWebGL.trigger
+
+# ===== Asset Store y paquetes que se descargan =====
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# ===== IDEs =====
+.vs/
+.vscode/
+.idea/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+ExportedObj/
+.consulo/
+
+# ===== Metadatos de símbolos y depuración =====
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+mono_crash.*
+
+# ===== Sistema operativo =====
+.DS_Store
+Thumbs.db
+desktop.ini
